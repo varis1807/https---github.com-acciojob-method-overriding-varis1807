@@ -8,8 +8,6 @@ package com.driver;
 
  class classB extends classA {
 
-    // classB obj = new classB();
-    //   obj.meth();
 
      @Override
     public String meth() {
